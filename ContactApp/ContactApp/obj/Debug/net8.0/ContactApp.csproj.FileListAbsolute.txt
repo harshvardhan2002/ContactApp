@@ -1,0 +1,14 @@
+C:\Users\Harshvardhan Gupta\source\repos\ContactApp\ContactApp\bin\Debug\net8.0\ContactApp.exe
+C:\Users\Harshvardhan Gupta\source\repos\ContactApp\ContactApp\bin\Debug\net8.0\ContactApp.deps.json
+C:\Users\Harshvardhan Gupta\source\repos\ContactApp\ContactApp\bin\Debug\net8.0\ContactApp.runtimeconfig.json
+C:\Users\Harshvardhan Gupta\source\repos\ContactApp\ContactApp\bin\Debug\net8.0\ContactApp.dll
+C:\Users\Harshvardhan Gupta\source\repos\ContactApp\ContactApp\bin\Debug\net8.0\ContactApp.pdb
+C:\Users\Harshvardhan Gupta\source\repos\ContactApp\ContactApp\obj\Debug\net8.0\ContactApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harshvardhan Gupta\source\repos\ContactApp\ContactApp\obj\Debug\net8.0\ContactApp.AssemblyInfoInputs.cache
+C:\Users\Harshvardhan Gupta\source\repos\ContactApp\ContactApp\obj\Debug\net8.0\ContactApp.AssemblyInfo.cs
+C:\Users\Harshvardhan Gupta\source\repos\ContactApp\ContactApp\obj\Debug\net8.0\ContactApp.csproj.CoreCompileInputs.cache
+C:\Users\Harshvardhan Gupta\source\repos\ContactApp\ContactApp\obj\Debug\net8.0\ContactApp.dll
+C:\Users\Harshvardhan Gupta\source\repos\ContactApp\ContactApp\obj\Debug\net8.0\refint\ContactApp.dll
+C:\Users\Harshvardhan Gupta\source\repos\ContactApp\ContactApp\obj\Debug\net8.0\ContactApp.pdb
+C:\Users\Harshvardhan Gupta\source\repos\ContactApp\ContactApp\obj\Debug\net8.0\ContactApp.genruntimeconfig.cache
+C:\Users\Harshvardhan Gupta\source\repos\ContactApp\ContactApp\obj\Debug\net8.0\ref\ContactApp.dll
